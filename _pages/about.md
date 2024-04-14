@@ -24,7 +24,7 @@ I am currently working at [Tencent](https://www.tencent.com/en-us) as a research
 **Weiqing Luo**, Chonggang Song, Lingling Yi, Gong Cheng \\
 [[paper](https://arxiv.org/abs/2403.06642)]
 
-## Publications
+## Selective Publications
 
 - **[SIGIR'24]** ACORDAR 2.0: A Test Collection for Ad Hoc Dataset Retrieval with Densely Pooled Datasets and Question-Style Queries \\
 Qiaosheng Chen, **Weiqing Luo**, Zixian Huang, Tengteng Lin, Xiaxia Wang, Ahmet Soylu, Basil Ell, Baifan Zhou, Evgeny Kharlamov, Gong Cheng \\
@@ -44,16 +44,6 @@ Qiaosheng Chen, Zixian Huang, Zhiyang Zhang, **Weiqing Luo**, Tengteng Lin, Qing
 [[code](https://github.com/nju-websoft/DR2)]
 [[proceedings](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_2)]
 [[BibTeX](https://dblp.org/rec/conf/semweb/ChenHZLLSC23.html?view=bibtex)]
-- **[DI'22]** CKGSE: A Prototype Search Engine for Chinese Knowledge Graphs \\
-Xiaxia Wang, Tengteng Lin, **Weiqing Luo**, Gong Cheng, Yuzhong Qu \\
-[[paper](https://direct.mit.edu/dint/article-pdf/4/1/41/1985087/dint_a_00118.pdf)]
-[[journal](https://direct.mit.edu/dint/article/4/1/41/109221/CKGSE-A-Prototype-Search-Engine-for-Chinese)]
-[[BibTeX](https://dblp.org/rec/journals/dint/WangLLCQ22.html?view=bibtex)]
-- **[CCKS'21]** Content-Based Open Knowledge Graph Search: A Preliminary Study with OpenKG.CN \\
-Xiaxia Wang, Tengteng Lin, **Weiqing Luo**, Gong Cheng, Yuzhong Qu \\
-[[paper](https://doi.org/10.1007/978-981-16-6471-7_8)]
-[[proceedings](https://link.springer.com/chapter/10.1007/978-981-16-6471-7_8)]
-[[BibTeX](https://dblp.org/rec/conf/ccks/0001LL0Q21.html?view=bibtex)]
 
 ## Internships
 
