@@ -13,9 +13,10 @@ I am a second-year master student at [Nanjing University](https://www.nju.edu.cn
 My research interests include neural retrieval methods and retrieval-augmented generation (RAG): 1) how to design better retrieval methods to enhance RAG preformance, and 2) how to utilize RAG for downstream applications (e.g. recommendation systems).
 
 I received my Bachelor degree from [Nanjing University](https://www.nju.edu.cn/en/) in 2022. 
-Currently I am working at [Tencent](https://www.tencent.com/en-us) as a research intern.
+I am currently working at [Tencent](https://www.tencent.com/en-us) as a research intern.
 
-Feel free to reach out to me if you're interested in my research.
+**I plan to enroll in a PhD program starting in 2024 Fall and am positively seeking a research internship this summer!**
+<!-- Feel free to reach out to me if you're interested in my research. -->
 
 ## Preprints
 
