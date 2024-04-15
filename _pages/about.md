@@ -24,7 +24,7 @@ I am currently working at [Tencent](https://www.tencent.com/en-us) as a research
 **Weiqing Luo**, Chonggang Song, Lingling Yi, Gong Cheng \\
 [[paper](https://arxiv.org/abs/2403.06642)]
 
-## Selective Publications
+## Selected Publications
 
 - **[SIGIR'24]** ACORDAR 2.0: A Test Collection for Ad Hoc Dataset Retrieval with Densely Pooled Datasets and Question-Style Queries \\
 Qiaosheng Chen, **Weiqing Luo**, Zixian Huang, Tengteng Lin, Xiaxia Wang, Ahmet Soylu, Basil Ell, Baifan Zhou, Evgeny Kharlamov, Gong Cheng \\
