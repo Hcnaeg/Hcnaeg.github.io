@@ -6,7 +6,7 @@ time: '2023'
 # <!-- date: 2022-11-01 -->
 venue: 'The 2023 Conference on Empirical Methods in Natural Language Processing, findings'
 paperurl: '/files/2023_EMNLP_Emp.pdf'
-# <!-- codeurl: 'https://github.com/ise-uiuc/DeepREL' -->
+odeurl: 'https://github.com/nju-websoft/AHDR-KnowledgeEnhanced'
 short: 'Findings of EMNLP 2023'
 ---
 
