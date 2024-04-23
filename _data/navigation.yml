@@ -15,8 +15,10 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
+  - title: "CV"
+    url: /files/weiqingluo_cv.pdf
   #   url: /cv/
+    
     
   # - title: "Guide"
   #   url: /markdown/
