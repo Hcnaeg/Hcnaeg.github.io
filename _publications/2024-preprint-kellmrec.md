@@ -1,7 +1,7 @@
 ---
 title: "KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation"
 collection: publications
-excerpt: '<u><b>Weiqing Luo*</b></u>, Chonggang Song, Lingling Yi, Gong Cheng.' 
+excerpt: '<u><b>Weiqing Luo</b></u>, Chonggang Song, Lingling Yi, Gong Cheng.' 
 time: '2024'
 # <!-- date: 2022-11-01 -->
 # venue: 'The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval'
