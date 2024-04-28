@@ -21,7 +21,7 @@ repository               : "Hcnaeg/Hcnaeg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   name             : "Weiqing Luo"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student @ Nanjing University"
