@@ -6,6 +6,6 @@ time: '2021'
 date: 2021-11-01
 venue: 'Proceeding of the 2021 China Conference on Knowledge Graph and Semantic Computing' 
 paperurl: '/files/2021_CCKS_OpenKG.pdf'
-odeurl: 'https://github.com/ise-uiuc/DeepREL'
 short: 'CCKS 2021'
+note: 'Completed at undergraduate'
 ---

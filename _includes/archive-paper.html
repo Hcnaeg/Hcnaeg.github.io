@@ -34,6 +34,9 @@
       {% if post.codeurl %}
       [<a href=" {{ post.codeurl }} "><u>code</u></a>]
       {% endif %}
+      {% if post.note %}
+      (<i>{{ post.note }}</i>)
+      {% endif %}
     </li>
 
   </article>

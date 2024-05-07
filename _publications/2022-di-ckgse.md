@@ -8,6 +8,7 @@ venue: 'Data Intellegence'
 paperurl: '/files/2022_DI_CKGSE.pdf'
 # <!-- codeurl: 'https://github.com/ise-uiuc/DeepREL' -->
 short: 'DI 2022'
+note: 'Completed at undergraduate'
 ---
 <!-- 
 
