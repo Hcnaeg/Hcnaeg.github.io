@@ -47,11 +47,11 @@ Qiaosheng Chen, Zixian Huang, Zhiyang Zhang, **Weiqing Luo**, Tengteng Lin, Qing
 
 ## Internships
 
-**Tencent**, Wechat Group <i style="float:right;text-align:right;">Jul 2023-now</i>
+**Tencent**, Wechat Machine Learning Application Group <i style="float:right;text-align:right;">Jul 2023-now</i>
 
 **SenseTime**, Decision Intelligence Group <i style="float:right;text-align:right;">Jan 2022-Jul 2022</i>
 
-**ByteDance**, TikTok Recommendation Gruop <i style="float:right;text-align:right;">Jul 2021-Sep 2021</i>
+**ByteDance**, TikTok Recommendation Group <i style="float:right;text-align:right;">Jul 2021-Sep 2021</i>
 
 ## Services
 
