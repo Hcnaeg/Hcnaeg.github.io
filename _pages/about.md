@@ -20,7 +20,7 @@ I am currently working at [Tencent](https://www.tencent.com/en-us) as a research
 
 ## Preprints
 
-- **[arXiv]** KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation \\
+- **[arXiv]** TRAWL: External Knowledge-Enhanced Recommendation with LLM Assistance \\
 **Weiqing Luo**, Chonggang Song, Lingling Yi, Gong Cheng \\
 [[paper](https://arxiv.org/abs/2403.06642)]
 
