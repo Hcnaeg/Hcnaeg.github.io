@@ -8,14 +8,12 @@ redirect_from:
 ---
 
 ## About Me
+I am a final-year master student at [Nanjing University](https://www.nju.edu.cn/en/), advised by [Prof. Gong Cheng](http://ws.nju.edu.cn/~gcheng).
+My research focuses on large language models, multimodal learning, and data mining. Currently, I am working on enhancing multimodal large language models, specifically tackling challenges in adapting to varied image resolutions. I have previously contributed to projects on recommender systems and dataset retrieval, utilizing knowledge graphs and information retrieval techniques. I am always open to exploring new ideas and research directions.
 
-I am a second-year master student at [Nanjing University](https://www.nju.edu.cn/en/), advised by [Prof. Gong Cheng](http://ws.nju.edu.cn/~gcheng).
-My research interests include neural retrieval methods and retrieval-augmented generation (RAG): 1) how to design better retrieval methods to enhance RAG preformance, and 2) how to utilize RAG for downstream applications (e.g. recommendation systems).
+I earned my Bachelor's degree from [Nanjing University](https://www.nju.edu.cn/en/) in 2022. 
 
-I received my Bachelor degree from [Nanjing University](https://www.nju.edu.cn/en/) in 2022. 
-I am currently working at [Tencent](https://www.tencent.com/en-us) as a research intern.
-
-**I plan to enroll in a PhD program starting in 2025 Fall and am positively seeking a research internship this summer!**
+**I am actively seeking a PhD position starting in Fall 2025!**
 <!-- Feel free to reach out to me if you're interested in my research. -->
 
 ## Preprints
@@ -47,7 +45,7 @@ Qiaosheng Chen, Zixian Huang, Zhiyang Zhang, **Weiqing Luo**, Tengteng Lin, Qing
 
 ## Internships
 
-**Tencent**, Wechat Machine Learning Application Group <i style="float:right;text-align:right;">Jul 2023-now</i>
+**Tencent**, Wechat Machine Learning Application Group <i style="float:right;text-align:right;">Jul 2023-May 2024</i>
 
 **SenseTime**, Decision Intelligence Group <i style="float:right;text-align:right;">Jan 2022-Jul 2022</i>
 
