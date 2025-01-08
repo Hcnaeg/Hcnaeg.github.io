@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 ## About Me
-I am a final-year master student at [Nanjing University](https://www.nju.edu.cn/en/), advised by [Prof. Gong Cheng](http://ws.nju.edu.cn/~gcheng).
-My research focuses on large language models, multimodal learning, and data mining. Currently, I am working on enhancing multimodal large language models, specifically tackling challenges in adapting to varied image resolutions. I have previously contributed to projects on recommender systems and dataset retrieval, utilizing knowledge graphs and information retrieval techniques. I am always open to exploring new ideas and research directions.
+I am a final-year Master's student at [Nanjing University](https://www.nju.edu.cn/en/), where I am fortunate to be advised by [Prof. Gong Cheng](http://ws.nju.edu.cn/~gcheng). I earned my Bachelor's degree from [Nanjing University](https://www.nju.edu.cn/en/) in 2022. Recently, I completed a research internship at The University of North Carolina at Chapel Hill under the guidance of [Prof. Tianlong Chen](https://tianlong-chen.github.io/).
 
-I earned my Bachelor's degree from [Nanjing University](https://www.nju.edu.cn/en/) in 2022. 
+My research interests lie in large language models, multimodal learning, and data mining. Currently, I am working on enhancing multimodal large language models, specifically tackling challenges in adapting to varied image resolutions. I have previously contributed to projects on recommender systems and dataset retrieval, utilizing knowledge graphs and information retrieval techniques. I am always open to exploring new ideas and research directions.
+
 
 **I am actively seeking a PhD position starting in Fall 2025!**
 <!-- Feel free to reach out to me if you're interested in my research. -->
@@ -43,7 +43,9 @@ Qiaosheng Chen, Zixian Huang, Zhiyang Zhang, **Weiqing Luo**, Tengteng Lin, Qing
 [[proceedings](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_2)]
 [[BibTeX](https://dblp.org/rec/conf/semweb/ChenHZLLSC23.html?view=bibtex)]
 
-## Internships
+## Experiences
+
+**The University of North Carolina at Chapel Hill**, UNITES Lab <i style="float:right;text-align:right;">Jun 2024-Nov 2024</i>
 
 **Tencent**, Wechat Machine Learning Application Group <i style="float:right;text-align:right;">Jul 2023-May 2024</i>
 
