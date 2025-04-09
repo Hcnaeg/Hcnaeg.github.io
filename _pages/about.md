@@ -16,19 +16,21 @@ My research interests lie in large language models, multimodal learning, and dat
 **I am actively seeking a PhD position starting in Fall 2025!**
 <!-- Feel free to reach out to me if you're interested in my research. -->
 
-## Preprints
+<!-- ## Preprints
 
 - **[arXiv]** TRAWL: External Knowledge-Enhanced Recommendation with LLM Assistance \\
 **Weiqing Luo**, Chonggang Song, Lingling Yi, Gong Cheng \\
-[[paper](https://arxiv.org/abs/2403.06642)]
+[[paper](https://arxiv.org/abs/2403.06642)] -->
 
 ## Selected Publications
-
+- **[arXiv]** TRAWL: External Knowledge-Enhanced Recommendation with LLM Assistance \\
+**Weiqing Luo**, Chonggang Song, Lingling Yi, Gong Cheng \\
+[[paper](https://arxiv.org/abs/2403.06642)]
 - **[SIGIR'24]** ACORDAR 2.0: A Test Collection for Ad Hoc Dataset Retrieval with Densely Pooled Datasets and Question-Style Queries \\
 Qiaosheng Chen, **Weiqing Luo**, Zixian Huang, Tengteng Lin, Xiaxia Wang, Ahmet Soylu, Basil Ell, Baifan Zhou, Evgeny Kharlamov, Gong Cheng \\
-[[paper](https://hcnaeg.github.io)]
+[[paper](https://dl.acm.org/doi/10.1145/3626772.3657866)]
 [[code](https://github.com/nju-websoft/ACORDAR-2)]
-[[proceedings](https://hcnaeg.github.io)]
+[[proceedings](https://dl.acm.org/doi/10.1145/3626772.3657866)]
 [[BibTeX](https://hcnaeg.github.io)]
 - **[Findings of EMNLP'23]** An Empirical Investigation of Implicit and Explicit Knowledge-Enhanced Methods for Ad Hoc Dataset Retrieval \\
 **Weiqing Luo**, Qiaosheng Chen, Zhiyang Zhang, Zixian Huang, Gong Cheng \\
@@ -36,6 +38,13 @@ Qiaosheng Chen, **Weiqing Luo**, Zixian Huang, Tengteng Lin, Xiaxia Wang, Ahmet 
 [[code](https://github.com/nju-websoft/AHDR-KnowledgeEnhanced)]
 [[proceedings](https://aclanthology.org/2023.findings-emnlp.957/)]
 [[BibTeX](https://aclanthology.org/2023.findings-emnlp.957.bib)]
+- **[SIGIR'25]** Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph \\
+Qiaosheng Chen, Kaijia Huang, Xiao Zhou, **Weiqing Luo**, Yuanning Cui, Gong Cheng \\
+[[paper](https://hcnaeg.github.io)]
+[[code](https://hcnaeg.github.io)]
+[[proceedings](https://hcnaeg.github.io)]
+[[BibTeX](https://hcnaeg.github.io)]
+
 - **[ISWC'23 Best Research Paper Nominee]** Dense Re-Ranking with Weak Supervision for RDF Dataset Search \\
 Qiaosheng Chen, Zixian Huang, Zhiyang Zhang, **Weiqing Luo**, Tengteng Lin, Qing Shi, Gong Cheng \\
 [[paper](https://doi.org/10.1007/978-3-031-47240-4_2)]
