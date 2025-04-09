@@ -10,7 +10,8 @@ redirect_from:
 ## About Me
 I am a final-year Master's student at [Nanjing University](https://www.nju.edu.cn/en/), where I am fortunate to be advised by [Prof. Gong Cheng](http://ws.nju.edu.cn/~gcheng). I earned my Bachelor's degree from [Nanjing University](https://www.nju.edu.cn/en/) in 2022. Recently, I completed a research internship at [The University of North Carolina at Chapel Hill](https://www.unc.edu/) under the guidance of [Prof. Tianlong Chen](https://tianlong-chen.github.io/). Prior to this, I had the opportunity to intern at [Tencent](https://www.tencent.com/) as part of the Rhino-Bird Elite Talent Program, which was a highly rewarding experience.
 
-My research interests lie in large language models, multimodal learning, and data mining. Currently, I am working on enhancing multimodal large language models, specifically tackling challenges in adapting to varied image resolutions. I have previously contributed to projects on recommender systems and dataset retrieval, utilizing knowledge graphs and information retrieval techniques. I am always open to exploring new ideas and research directions.
+My research focuses on **vision-language modeling** and **data-centric methods**. Currently, I am working on enhancing multimodal large language models, specifically tackling challenges in adapting to varied image resolutions. I have previously contributed to projects on recommender systems and dataset retrieval, utilizing knowledge graphs and information retrieval techniques. **I am always open to exploring new ideas and research directions**.
+
 
 
 **I am actively seeking a PhD position starting in Fall 2025!**
