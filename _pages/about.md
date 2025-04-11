@@ -14,7 +14,7 @@ My research focuses on **vision-language modeling** and **data-centric methods**
 
 
 
-**I am actively seeking a PhD position starting in Fall 2025!**
+**I am actively seeking a PhD position starting in Fall 2025/Spring 2026!**
 <!-- Feel free to reach out to me if you're interested in my research. -->
 
 <!-- ## Preprints
