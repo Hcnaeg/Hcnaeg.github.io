@@ -13,8 +13,7 @@ I am a final-year Master's student at [Nanjing University](https://www.nju.edu.c
 My research focuses on **vision-language modeling** and **data-centric methods**. Currently, I am working on enhancing multimodal large language models, specifically tackling challenges in adapting to varied image resolutions. I have previously contributed to projects on recommender systems and dataset retrieval, utilizing knowledge graphs and information retrieval techniques. **I am always open to exploring new ideas and research directions**.
 
 
-
-**I am actively seeking a PhD position starting in Fall 2025/Spring 2026!**
+<!-- **I am actively seeking a PhD position starting in Fall 2025/Spring 2026!** -->
 <!-- Feel free to reach out to me if you're interested in my research. -->
 
 <!-- ## Preprints
