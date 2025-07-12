@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a final-year Master's student at [Nanjing University](https://www.nju.edu.cn/en/), where I have been fortunate to be advised by [Prof. Gong Cheng](http://ws.nju.edu.cn/~gcheng). I earned my Bachelor's degree from [Nanjing University](https://www.nju.edu.cn/en/) in 2022.
+I am a final-year Master's student at [Nanjing University](https://www.nju.edu.cn/en/), where I have been fortunate to be advised by Prof. Gong Cheng. I earned my Bachelor's degree from [Nanjing University](https://www.nju.edu.cn/en/) in 2022.
 
 
 My research interests are in the mathematical and statistical principles, including foundational biostatistical theory and the development of rigorous mathematical methods.
