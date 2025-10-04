@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Weiqing Luo's Homepage"
 title_separator          : "-"
 name                     : &name "Weiqing Luo"
-description              : &description "Graduate Student @ Nanjing University"
+description              : &description "PhD Student @ Arizona State University"
 url                      : https://hcnaeg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hcnaeg/Hcnaeg.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "bio-photo.png"
   name             : "Weiqing Luo"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate Student @ Nanjing University"
-  location         : "Nanjing, China"
+  bio              : "PhD Student @ Arizona State University"
+  location         : "Tempe, USA"
   employer         : 
   uri              : # URL
-  email            : "wqluo@smail.nju.edu.cn" 
+  email            : "weiqing2@asu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
