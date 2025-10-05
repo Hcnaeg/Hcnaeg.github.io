@@ -66,7 +66,6 @@ Qiaosheng Chen, Zixian Huang, Zhiyang Zhang, **Weiqing Luo**, Tengteng Lin, Qing
 
 ## Services
 
-Reviewer:
-**ACL ARR** <i style="float:right;text-align:right;">July/May/Feb 2025</i>
+ACL ARR Reviewer <i style="float:right;text-align:right;">July/May/Feb 2025</i>
 
-**DASFAA** <i style="float:right;text-align:right;">2024</i>
+DASFAA Reviewer <i style="float:right;text-align:right;">2024</i>
