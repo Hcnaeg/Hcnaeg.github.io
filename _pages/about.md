@@ -53,3 +53,19 @@ Qiaosheng Chen, Zixian Huang, Zhiyang Zhang, **Weiqing Luo**, Tengteng Lin, Qing
 [[code](https://github.com/nju-websoft/DR2)]
 [[proceedings](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_2)]
 [[BibTeX](https://dblp.org/rec/conf/semweb/ChenHZLLSC23.html?view=bibtex)]
+
+## Experiences
+
+**The University of North Carolina at Chapel Hill**, UNITES Lab <i style="float:right;text-align:right;">Jun 2024-Nov 2024</i>
+
+**Tencent**, Wechat Machine Learning Application Group <i style="float:right;text-align:right;">Jul 2023-May 2024</i>
+
+**SenseTime**, Decision Intelligence Group <i style="float:right;text-align:right;">Jan 2022-Jul 2022</i>
+
+**ByteDance**, TikTok Recommendation Group <i style="float:right;text-align:right;">Jul 2021-Sep 2021</i>
+
+## Services
+
+Reviewer:  \\
+ACL ARR July/May/Feb 2025 \\
+DASFAA 2024
