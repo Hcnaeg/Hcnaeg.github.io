@@ -1,0 +1,6 @@
+The fonts in this directory are Latin subsets distributed under the SIL Open Font License 1.1
+(https://openfontlicense.org):
+
+- Bricolage Grotesque, Copyright The Bricolage Grotesque Project Authors
+- Source Serif 4, Copyright Adobe
+- JetBrains Mono, Copyright The JetBrains Mono Project Authors
